@@ -1,0 +1,36 @@
+.header{
+	display: block;
+	white-space: nowrap;
+	margin: 0 auto;
+	height: 60px;
+}
+.header p{
+	font-size: 25px;
+	text-align: center;
+}
+.header-right a{
+	text-decoration: none;
+	color: red;
+	font-size: 19px;
+}
+.header-right{
+	display: block;
+	float: right;
+	height: 60px;
+	width: 50px;
+}
+.footer{
+	display: block;
+	height: 500px;
+	background: url(../img/Main_Background.png);
+}
+.footer h3{
+	text-align: center;
+}
+.bottom{
+	margin: 0;
+	display: block;
+	color: aliceblue;
+	text-align: center;
+	background: url(../img/timg.jpg);
+}
